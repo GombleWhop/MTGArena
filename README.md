@@ -1,0 +1,2 @@
+# MTGArena
+MTGA Arena Database
